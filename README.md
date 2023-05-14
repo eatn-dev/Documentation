@@ -5,6 +5,8 @@ by Ivan Sakal
 - [Portfolio](#portfolio)
   - [Introduction](#introduction)
   - [Learning outcomes](#learning-outcomes)
+    - [Proof](#proof)
+  - [Self assessment](#self-assessment)
 
 ---
 
@@ -22,3 +24,11 @@ Grading system is explained [here](https://fhict.instructure.com/courses/12993/o
 ## Learning outcomes
 
 For a detailed list of learning outcomes, see [here](./docs/learning_outcomes/learning_outcomes.md).
+
+### Proof
+
+***TO BE MADE***
+
+## Self assessment
+
+***TO BE MADE***
