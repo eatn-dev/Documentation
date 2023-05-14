@@ -21,6 +21,8 @@
 | **User friendly** | You apply best practices when creating user interfaces and basic user experience testing and development techniques. |
 | **Full-stack** | You design and build a full stack application using a commonly accepted front end Javascript framework and back end application implementing relevant communication protocols, persistence of data by usage of ORM and addressing asynchronous communication issues. |
 
+<br>
+
 ## Software quality
 
 "You use software **tooling and methodology** that continuously monitors and improve the software quality during software development."
@@ -28,6 +30,8 @@
 | **Keyword** | **Explanation** |
 |---|---|
 | **Tooling and methodology** |  Carry out, monitor and report on unit integration, regression and system tests, with attention for security and performance aspects, as well as applying static code analysis and code reviews. |
+
+<br>
 
 ## Agile method
 
@@ -37,6 +41,7 @@
 |---|---|
 | **Choose** | You are aware of the most popular agile methods and their underlying agile principles. Your choice of a method is motivated and based on well-defined selection criteria and context analyses. |
 
+<br>
 
 ## CI/CD
 
@@ -46,6 +51,7 @@
 |---|---|
 | **Design and implement** | You design a release process and implement a continuous integration and deployment solution (using e.g. Gitlab CI and Docker). |
 
+<br>
 
 ## Cultural differences and ethics
 
@@ -58,6 +64,8 @@
 
 *Address one of the standard Programming Ethical Guidelines (e.g., ACM Code of Ethics and Professional Conduct) in your work.*
 
+<br>
+
 ## Requirements and design
 
 "You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using **multiple types of test techniques**."
@@ -65,6 +73,8 @@
 | **Keyword** | **Explanation** |
 |---|---|
 | **Multiple types of test techniques** | You apply user acceptance testing and stakeholder feedback to validate the quality of the requirements. You evaluate the quality of the design (e.g., by testing or prototyping) taking into account the formulated quality properties like security and performance. |
+
+<br>
 
 ## Business process
 
@@ -74,6 +84,8 @@
 |---|---|
 | **Simple** | Involving stakeholders, predominantly sequential processes with one or two alternative paths. |
 | **Related** | Business processes during which the software that you are developing will be used (business processes that the software must support by fully or partially automating them).<br> *or* <br> Business processes needed for the success of your software development project (e.g., product release, market release, financial assurance). |
+
+<br>
 
 ## Professional
 
