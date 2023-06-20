@@ -8,6 +8,7 @@ by Ivan Sakal
   - [Proof and self assessment](#proof-and-self-assessment)
     - [Web Application](#web-application)
     - [Software Quality](#software-quality)
+    - [Agile method](#agile-method)
     - [CI/CD](#cicd)
 
 ---
@@ -35,7 +36,11 @@ For a detailed list of learning outcomes, see [here](./docs/learning_outcomes/le
 |---|---|
 | Web Application | [proof](./docs/proofs/1_web_application.md) |
 | Sofware Quality | [proof](./docs/proofs/2_code_quality.md) |
+| Agile method | [proof](./docs/proofs/3_agile_method.md) |
 | CI/CD | [proof](./docs/proofs/4_cicd.md) |
+| Cultural differences and ethics | [proof](./docs/proofs/5_cultural_differences_and_ethics.md) |
+| Requirements and design | [proof](./docs/proofs/6_requirements_and_design.md) |
+| Business processes | [proof](./docs/proofs/7_business_processes.md) |
 
 ### Web Application
 
@@ -91,6 +96,29 @@ For a detailed list of learning outcomes, see [here](./docs/learning_outcomes/le
   </tr>
 </table>
 
+### Agile method  
+
+<table>
+  <tr>
+    <th><strong>Learning Outcome</strong></th>
+    <td>"You choose and implement the most suitable agile software development method for your software project."</td>
+  </tr>
+  <tr>
+    <th><strong>Proficiency Rating</strong></th>
+    <td>Advanced</td>
+  </tr>
+  <tr>
+    <th><strong>Explanation</strong></th>
+    <td>
+        <p>
+          For agile implementation for group project, see [this document](./docs/proofs/3_agile_method.md).
+          <br>
+          In my individual project, I implemented agile methodology as best as I could. My sprints lasted a week each and every sprint review and retrospection was done with professor. Backlog and all tickets are extensively refined, agile development was adhered to and the most important thing, priorities changed every sprint so every learning outcome could be satisfied.
+        </p>
+    </td>
+  </tr>
+</table>
+
 ### CI/CD
 
 <table>
@@ -100,7 +128,7 @@ For a detailed list of learning outcomes, see [here](./docs/learning_outcomes/le
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td>Proficient</td>
+    <td>Advanced</td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
