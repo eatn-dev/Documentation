@@ -10,6 +10,9 @@ by Ivan Sakal
     - [Software Quality](#software-quality)
     - [Agile method](#agile-method)
     - [CI/CD](#cicd)
+    - [Cultural Differences and Ethics](#cultural-differences-and-ethics)
+    - [Business processes](#business-processes)
+    - [Professional](#professional)
 
 ---
 
@@ -141,3 +144,71 @@ For a detailed list of learning outcomes, see [here](./docs/learning_outcomes/le
   </tr>
 </table>
 
+### Cultural Differences and Ethics
+
+<table>
+  <tr>
+    <th><strong>Learning Outcome</strong></th>
+    <td>"You recognize and take into account cultural differences between project stakeholders and ethical aspects in software development."</td>
+  </tr>
+  <tr>
+    <th><strong>Proficiency Rating</strong></th>
+    <td>Advanced</td>
+  </tr>
+  <tr>
+    <th><strong>Explanation</strong></th>
+    <td>
+        <p>
+          Our project stakeholders and development team had a very cultural inconsistency and therefore a lot of different perspectives were noticed and approaches were used in solving problems.
+          <br>
+          As for ethics of our group project, actual employee tracking by WiFi has an option to opt out of automatic tracking. Therefore, my opinion is our project has been realised as ethically as one can.
+        </p>
+    </td>
+  </tr>
+</table>
+
+### Business processes
+
+<table>
+  <tr>
+    <th><strong>Learning Outcome</strong></th>
+    <td>"You analyze and describe simple business processes that are related to your project."</td>
+  </tr>
+  <tr>
+    <th><strong>Proficiency Rating</strong></th>
+    <td>Proficient</td>
+  </tr>
+  <tr>
+    <th><strong>Explanation</strong></th>
+    <td>
+        <p>
+          Too see more in-depth explanation, visit proof document.
+        </p>
+    </td>
+  </tr>
+</table>
+
+### Professional
+
+<table>
+  <tr>
+    <th><strong>Learning Outcome</strong></th>
+    <td>"You act in a professional manner during software development and learning."</td>
+  </tr>
+  <tr>
+    <th><strong>Proficiency Rating</strong></th>
+    <td>Advanced</td>
+  </tr>
+  <tr>
+    <th><strong>Explanation</strong></th>
+    <td>
+        <p>
+          My professional attitude and seriousness has been prominent in both group and indivudual projects.
+          <br>
+          In individual project, every unknown topic was thoroughly researched and discussed with professor and peers. Meetings were held on weekly basis, and Feedpulse checkpoints were regularly written.
+          <br>
+          In group project our professionalism came to light during sprint kickoff meetings, office days, standups and sprint reviews. Communication channels and agile board were regularly kept up to date.
+        </p>
+    </td>
+  </tr>
+</table>
